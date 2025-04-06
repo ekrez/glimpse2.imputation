@@ -8,4 +8,6 @@
 
 ./step6_script_ligate.sh 20 HG00269 1x
 
+./work.with.gnomad.sh 20 HG00269
+
 ./step7_script_concordance.sh 20 HG00269 1x
