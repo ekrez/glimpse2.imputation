@@ -1,3 +1,5 @@
+
+
 ./create.bam.1x.sh 20 HG00269 
 
 ./step3_script_chunk.sh 20 HG00269
